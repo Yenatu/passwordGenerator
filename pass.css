@@ -26,4 +26,6 @@ body {
     padding: 20px;
     padding-top: 10px;
   }
-  
+  #includeUppercase{
+    color: gold;
+  }
