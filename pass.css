@@ -13,7 +13,6 @@ body {
     background-color: hsl(189, 76%, 37%);
     border-radius: 11%;
   }
-  
   .form-group {
     margin-bottom: 16px;
   }
@@ -24,8 +23,5 @@ body {
     font-weight: bold;
     color: aliceblue;
     padding: 20px;
-    padding-top: 10px;
-  }
-  #includeUppercase{
-    color: gold;
+    padding-top: 15px;
   }
