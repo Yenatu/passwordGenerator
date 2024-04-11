@@ -29,4 +29,3 @@ function generatePassword() {
   
   // Event listener for generate button
   document.getElementById("generate").addEventListener("click", updatePassword);
-  
